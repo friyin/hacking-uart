@@ -1,0 +1,16 @@
+baseURL: "https://dfer.io/presentations/hacking-uart-for-fun-and-profit/"
+languageCode: "es-es"
+title: "Hacking UART for fun and profit"
+theme: "hugo-theme-revealjs"
+params:
+    reveal_theme: black
+    revealjs:
+        controls: true
+        progress: true
+        history: true
+        center: true
+        height: 100%
+        width: 100%
+        slideNumber: true
+        transitionSpeed: 'fast'
+        autoPlayMedia: true

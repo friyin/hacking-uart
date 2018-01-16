@@ -1,0 +1,23 @@
+<section
+  id="{{ .URL }}"
+
+  {{ if .Params.autoslide }}
+    data-autoslide="{{ .Params.autoslide }}"
+  {{ end }}
+
+  {{ if .Params.background }}
+    {{ range $i, $e := .Params.background }}
+      data-background-{{ $i }}="{{ $e }}"
+    {{ end }}
+  {{ end }}
+
+  {{ if .Params.transition }}
+    data-transition="{{ .Params.transition }}"
+  {{ end }}
+
+  {{ if .Params.transition_speed }}
+    data-transition="{{ .Params.transition_speed }}"
+  {{ end }}
+>
+  {{ .Content }}
+</section>

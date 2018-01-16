@@ -1,0 +1,243 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta name="generator" content="Hugo 0.33-DEV" />
+  <meta charset="utf-8" />
+  <meta http-equiv="Content-Language" content="en" />
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width" />
+  <meta name="application-name" content="Hacking UART for fun and profit" />
+
+  <title>Hacking UART for fun and profit</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/reveal.min.css" integrity="sha256-ol2N5Xr80jdDqxK0lte3orKGb9Ja3sOnpAUV7TTADmg=" crossorigin="anonymous" />
+
+  <link rel="stylesheet" href='https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/theme/black.min.css' />
+  <link rel="stylesheet" href='https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/monokai-sublime.min.css' />
+
+  
+    <link rel="stylesheet" href='/presentations/hacking-uart-for-fun-and-profit/index.css' />
+  
+</head>
+<body>
+
+
+
+  <div class="reveal">
+    <div class="slides">
+      <section
+  id="/presentations/hacking-uart-for-fun-and-profit/"
+
+  
+
+  
+
+  
+
+  
+>
+  
+
+<h1 id="hacking-the-uart-for-fun-and-profit">Hacking the UART for Fun and Profit</h1>
+
+</section>
+
+
+      
+        <section>
+          <section
+  id="/presentations/hacking-uart-for-fun-and-profit/que-es-uart/"
+
+  
+
+  
+
+  
+
+  
+>
+  
+
+<h4 id="peero-qué-es-una-uart">Peero&hellip; ¿Qué es una UART?</h4>
+
+<div style="display: block">
+<span
+  class='fragment '
+  
+    data-fragment-index='1'
+  
+>
+  <ul>
+<li>El nombre UART viene de las siglas en inglés Universal Asynchronous Receiver-Transmitter.</li>
+</ul>
+
+</span>
+
+<span
+  class='fragment '
+  
+    data-fragment-index='2'
+  
+>
+  <ul>
+<li>Es decir que la UART transmite los datos en serie y de forma asíncrona.<br></li>
+</ul>
+
+</span>
+
+<span
+  class='fragment '
+  
+    data-fragment-index='3'
+  
+>
+  <ul>
+<li>Que sea en serie quiere decir que cada bit se transmite de forma secuencial y uno a uno.<br></li>
+</ul>
+
+</span>
+
+<span
+  class='fragment '
+  
+    data-fragment-index='4'
+  
+>
+  <ul>
+<li>Que sea asíncrona quiere decir que no necesita ninguna señal que indique en que instante se debe enviar la información.<br></li>
+</ul>
+
+</span>
+
+
+</div>
+
+</section>
+
+
+          
+        </section>
+      
+        <section>
+          <section
+  id="/presentations/hacking-uart-for-fun-and-profit/regreso-al-pasado/"
+
+  
+
+  
+
+  
+
+  
+>
+  
+
+<h4 id="ahora-que-ya-sabemos-lo-que-es-una-uart">Ahora que ya sabemos lo que es una UART</h4>
+
+<h1 id="hahahugoshortcode-1hbhb"><span
+  class='fragment '
+  
+>
+  Vamos a remontarnos a 1971
+</span>
+</h1>
+
+<p><span
+  class='fragment '
+  
+>
+  Cuando la tecnología aun era...
+</span>
+
+<br>
+<span
+  class='fragment '
+  
+>
+  ...una lozana adolescente...
+</span>
+</p>
+
+</section>
+
+
+          
+        </section>
+      
+        <section>
+          <section
+  id="/presentations/hacking-uart-for-fun-and-profit/momento-filosofico/"
+
+  
+
+  
+
+  
+
+  
+>
+  
+
+<div style="text-align: left">&lt;Modo filosófico gratuito&gt;</div>
+
+<p><br></p>
+
+<h1 id="hay-que-comprender-el-pasado">Hay que comprender el pasado&hellip;</h1>
+
+<h3 id="para-conocer-el-presente">&hellip;para conocer el presente</h3>
+
+<p><br></p>
+
+<div style="text-align: right; margin-right: 100px;">Pierre Vilar (1906 - 2003)</div>
+
+</section>
+
+
+          
+        </section>
+      
+        <section>
+          <section
+  id="/presentations/hacking-uart-for-fun-and-profit/dispositivos-mecanicos/"
+
+  
+
+  
+
+  
+
+  
+>
+  
+
+<h4 id="dispositivos-mecánicos">Dispositivos mecánicos</h4>
+
+<p>La primera comunicación automática utilizando transmisión en serie fue mediante dispositivos mecánicos rotatorios</p>
+
+<video style="opacity: 0.25; width: 100%; height: 100%"  playsinline autoplay muted loop data-ignore>
+<source src="oldfilm2.mp4" type="video/mp4">
+</video>
+
+</section>
+
+
+          
+        </section>
+      
+    </div>
+  </div>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/js/reveal.min.js" integrity="sha256-ixSKHrWAL2k0mqVSRju9+to2/uZSEK9+kJRfdNBolG8=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/zoom-js/zoom.min.js" integrity="sha256-r7x+4iKcDauI3cOr35pRCf1DsmoaRLuURBgs2yU7u64=" crossorigin="anonymous"></script>
+
+
+<script type="application/json" id="reveal-user-config">{"autoplaymedia":true,"center":true,"controls":true,"height":"100%","history":true,"progress":true,"slidenumber":true,"transitionspeed":"fast","width":"100%"}</script>
+<script type="application/json" id="reveal-default-config">{"center":true}</script>
+
+<script type="application/javascript" src='/presentations/hacking-uart-for-fun-and-profit/hugo-theme-revealjs.js'></script>
+
+
+</body>
+</html>
+

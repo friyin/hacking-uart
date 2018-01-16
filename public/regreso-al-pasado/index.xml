@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>10010 on Hacking UART for fun and profit</title>
+    <link>https://dfer.io/presentations/hacking-uart-for-fun-and-profit/regreso-al-pasado/</link>
+    <description>Recent content in 10010 on Hacking UART for fun and profit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    
+	<atom:link href="https://dfer.io/presentations/hacking-uart-for-fun-and-profit/regreso-al-pasado/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
