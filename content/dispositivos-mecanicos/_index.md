@@ -9,7 +9,7 @@ La primera comunicación automática utilizando transmisión en serie fue median
 
 <img src="M19_8w.jpg" style="width: 30%; border-color: #000"></img>
 <br>
-<div style="font-size: 15pt">Mira que mono es</div>
+<div style="font-size: 20pt">Mira qué mono es</div>
 <video style="opacity: 0.25; width: 100%; height: 100%"  playsinline autoplay muted loop data-ignore>
 <source src="oldfilm2.mp4" type="video/mp4">
 </video>

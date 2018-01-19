@@ -5,8 +5,8 @@ theme: "hugo-theme-revealjs"
 params:
     reveal_theme: black
     revealjs:
-        controls: true
-        progress: true
+        controls: false
+        progress: false
         history: true
         center: true
         height: 100%
@@ -14,3 +14,4 @@ params:
         slideNumber: true
         transitionSpeed: 'fast'
         autoPlayMedia: true
+        margin: 0.0
