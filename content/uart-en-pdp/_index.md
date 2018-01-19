@@ -9,7 +9,7 @@ Aunque actualmente las UART ocupan un solo chip o van integradas en chipsets o p
 
 <img src="800px-PDP-1.jpg" style="width: 25%; border-color: #000"></img> 
 <br>
-<div style="font-size: 10pt">(Esto es un claro ejemplo de ordenador de bolsillo, pero de dinosaurio)</div>
+<div style="font-size: 15pt">Esto es un claro ejemplo de ordenador de bolsillo, pero de dinosaurio</div>
 <video style="opacity: 0.25; width: 100%; height: 100%"  playsinline autoplay muted loop data-ignore>
 <source src="oldfilm2.mp4" type="video/mp4">
 </video>

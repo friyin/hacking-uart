@@ -1,4 +1,4 @@
-baseURL: "https://dfer.io/presentations/hacking-uart-for-fun-and-profit/"
+baseURL: "https://dfer.io/presentaciones/hacking-uart"
 languageCode: "es-es"
 title: "Hacking UART for fun and profit"
 theme: "hugo-theme-revealjs"

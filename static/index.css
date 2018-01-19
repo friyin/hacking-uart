@@ -13,9 +13,9 @@ video {
     transition: 1s opacity;
 }
 
-.reveal h1 { text-shadow: 3px 3px #000000; }
-.reveal h2 { text-shadow: 3px 3px #000000; }
-.reveal h3 { text-shadow: 3px 3px #000000; }
-.reveal h4 { text-shadow: 3px 3px #000000; }
-.reveal h5 { text-shadow: 3px 3px #000000; }
+.reveal h1 { text-shadow: 4px 4px #000000; }
+.reveal h2 { text-shadow: 4px 4px #000000; }
+.reveal h3 { text-shadow: 4px 4px #000000; }
+.reveal h4 { text-shadow: 4px 4px #000000; }
+.reveal h5 { text-shadow: 4px 4px #000000; }
 .reveal    { text-shadow: 2px 2px #000000; }
