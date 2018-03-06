@@ -10,6 +10,6 @@ title: 10070
 
 <img src="chipsbank_usb_drives.jpg" style="width: 30%; border-color: #000"></img> 
 <div style="font-size: 20pt">Lo que está claro es que cada vez es mas diminuto</div>
-<video style="opacity: 0.25; width: 100%; height: 100%"  playsinline autoplay muted loop data-ignore>
-<source src="oldfilm2.mp4" type="video/mp4">
+<video style="opacity: 0.25; width: 100%; height: 100%"  playsinline  muted loop data-ignore>
+
 </video>

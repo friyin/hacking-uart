@@ -12,6 +12,6 @@ title: 10130
 <img src="uart-como.jpeg" style="width: 15%; border-color: #000"></img> 
 
 <div style="font-size: 20pt">Kit necesario para hacer maldades</div>
-<video style="opacity: 0.4; width: 100%; height: 100%"  playsinline autoplay muted loop data-ignore>
-<source src="digital_overlay.mp4" type="video/mp4">
+<video style="opacity: 0.4; width: 100%; height: 100%"  playsinline  muted loop data-ignore>
+
 </video>

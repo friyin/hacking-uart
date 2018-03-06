@@ -11,6 +11,6 @@ title: 10140
 
 
 <div style="font-size: 20pt">Parece fácil ¡eh!</div>
-<video style="opacity: 0.4; width: 100%; height: 100%"  playsinline autoplay muted loop data-ignore>
-<source src="digital_overlay.mp4" type="video/mp4">
+<video style="opacity: 0.4; width: 100%; height: 100%"  playsinline  muted loop data-ignore>
+
 </video>

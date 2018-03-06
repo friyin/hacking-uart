@@ -10,6 +10,6 @@ title: 10135
 
 <img src="uart-galaxy.png" style="width: 20%; border-color: #000"></img> 
 <div style="margin-top: -10px; font-size: 20pt">Refrán: Dónde nadie lo piensa salta la UART</div>
-<video style="opacity: 0.4; width: 100%; height: 100%"  playsinline autoplay muted loop data-ignore>
-<source src="digital_overlay.mp4" type="video/mp4">
+<video style="opacity: 0.4; width: 100%; height: 100%"  playsinline  muted loop data-ignore>
+
 </video>

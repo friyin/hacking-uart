@@ -10,6 +10,6 @@ title: 10110
  * El acceso por UART es una herramienta muy útil para el análisis forense. 
 
 <div style="font-size: 20pt">Toma seguridad, toma más seguridad</div>
-<video style="opacity: 0.4; width: 100%; height: 100%"  playsinline autoplay muted loop data-ignore>
-<source src="digital_overlay.mp4" type="video/mp4">
+<video style="opacity: 0.4; width: 100%; height: 100%"  playsinline  muted loop data-ignore>
+
 </video>

@@ -11,6 +11,6 @@ title: 10050
 <img src="National_Semiconductor_8250A.jpeg" style="width: 35%; border-color: #000"></img> 
 <br>
 <div style="font-size: 20pt">Velocidades de vértigo, cuidado que me despeino</div>
-<video style="opacity: 0.25; width: 100%; height: 100%"  playsinline autoplay muted loop data-ignore>
-<source src="oldfilm2.mp4" type="video/mp4">
+<video style="opacity: 0.25; width: 100%; height: 100%"  playsinline  muted loop data-ignore>
+
 </video>
